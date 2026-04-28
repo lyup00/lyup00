@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add .
-          git commit -m "update skyline" || echo "no changes"
-          git push
+          git diff --staged --quiet || git commit -m "update skyline"
+          git push origin HEAD:main
