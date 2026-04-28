@@ -18,11 +18,14 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate 3D Contribution Graph
+      - name: Generate 3D graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: lyup00
+
+      - name: Check files
+        run: ls -R
 
       - name: Commit files
         run: |
@@ -31,10 +34,7 @@ jobs:
 
           git add .
 
-          if git diff --staged --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-
-          git commit -m "update skyline"
-          git push origin HEAD:main
+          git diff --staged --quiet && echo "No changes" || (
+            git commit -m "update skyline"
+            git push origin HEAD:main
+          )
