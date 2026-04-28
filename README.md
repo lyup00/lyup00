@@ -15,9 +15,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyup00&show_icons=true&theme=tokyonight)
 
-<img src="https://raw.githubusercontent.com/lyup00/lyup00/main/profile-night-rainbow.svg" />
-
-<img src="https://raw.githubusercontent.com/lyup00/lyup00/main/profile-green-animate.svg" />
+<img src="https://github.com/lyup00/lyup00/blob/main/profile-night-rainbow.svg?raw=true" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lyup00/lyup00/main/github-contribution-grid-snake.svg" />
