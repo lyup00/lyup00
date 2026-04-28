@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          github_user_name: lyup00
 
       - name: Commit files
         run: |
