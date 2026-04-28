@@ -16,7 +16,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyup00&show_icons=true&theme=tokyonight)
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/lyup00/lyup00/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lyup00/lyup00/main/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center"> <a href="(https://www.instagram.com/lyup00/?utm_source=ig_web_button_share_sheet)"><img src="https://img.shields.io/badge/-Instagram-E09698?style=flat&logo=instagram&logoColor=white"/></a> <a href="mediina.moriis@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a> </p>
 
