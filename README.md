@@ -9,15 +9,14 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,github,vscode,cpp" /> </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Miau+miau+miau+miau+miau;ñau+ñau)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyup00&show_icons=true&theme=tokyonight)
 
-<p align="center"> <img src="https://raw.githubusercontent.com/TU_USER/TU_USER/output/github-contribution-grid-snake.svg" /> </p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/lyup00/lyup00/output/github-contribution-grid-snake.svg" /> </p>
 
 <p align="center"> <a href="(https://www.instagram.com/lyup00/?utm_source=ig_web_button_share_sheet)"><img src="https://img.shields.io/badge/-Instagram-E09698?style=flat&logo=instagram&logoColor=white"/></a> <a href="mediina.moriis@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a> </p>
 
